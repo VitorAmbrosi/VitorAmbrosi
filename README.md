@@ -12,8 +12,10 @@
 
 **Linguagens de Programação:**
 `JavaScript` | `PHP` | `HTML5` | `CSS3`
+
 **Frameworks & Bibliotecas:**
 `React` | `Laravel` | `Tailwind CSS`
+
 **Ferramentas & Outros:**
 `Git` | `GitHub` | `VS Code` | `Figma` | `Docker` | `Postman` | `Composer`
 
