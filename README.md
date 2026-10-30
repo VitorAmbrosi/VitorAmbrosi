@@ -11,20 +11,20 @@
 ###  Tecnologias e Ferramentas
 
 **Linguagens de Programação:**
-`JavaScript` | `PHP` | `HTML5` | `CSS3`
+`JavaScript` | `PHP` | `HTML5` | `CSS3` 
 
 **Frameworks & Bibliotecas:**
-`React` | `Laravel` | `Tailwind CSS`
+`React` | `Laravel` | `Tailwind CSS` 
 
 **Ferramentas & Outros:**
-`Git` | `GitHub` | `VS Code` | `Figma` | `Docker` | `Postman` | `Composer`
+`Git` | `GitHub` | `VS Code` | `Figma` | `Docker` | `Postman` | `Composer` 
 
 ---
 
 ###  Experiência & Projetos em Destaque
 
 ####  [RSP Etiquetas](https://rspetiquetas.com.br/)
-* **Papel:** Desenvolvedor(a) Front-end / Web
+* **Papel:** Desenvolvedor Front-end / Web
 * **Descrição:** Desenvolvimento completo de site institucional para a empresa **RSP Etiquetas**, focado em captação de clientes e facilidade de contato.
 * **Tecnologias:** `HTML5` | `CSS3` | `JavaScript` | `EmailJS` | `WhatsApp API` | `Google Maps API`
 * **Principais Entregas:**
